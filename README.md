@@ -296,6 +296,4 @@ bk/                              # Main workflow directory
 - Nextflow Documentation: https://www.nextflow.io/docs/latest/
 - BWA: http://bio-bwa.sourceforge.net/
 
-## License
 
-This workflow is part of the Sageloom training repository.
